@@ -30,5 +30,6 @@
   "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
   "main": "index.js",
   "author": "Alfredo Perez",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
