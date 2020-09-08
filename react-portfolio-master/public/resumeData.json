@@ -2,9 +2,9 @@
   "main": {
     "name": "Alfredo Perez",
     "occupation": "ReactJS Developer",
-    "description": "Full Stack React Developer by Day, && Freelancer by Night.",
+    "description": "Full Stack React Developer by Day & Freelancer by Night.",
     "image": "AP_image.jpg",
-    "bio": "My name is Alfredo, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Alfredo, I'm a Full Stack ReactJS Developer. Currently I'm working as an operations manager in a lighting manufacture",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "alfredo.perezsd@gmail.com",
     "phone": "786-518-8524",
@@ -55,7 +55,7 @@
         "title": "Operations Manager ",
         "years": "1998 - Present",
         "description": "Manage/Supervise office staff"
-      },
+      }
       
     ],
     "skills": [
@@ -103,7 +103,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "I’ve worked with Alfredo for the past 20 years at Exiting Products Manufacturing in Miami, and I’ve always been impressed with his ability to handle sales agents as well as customers. He’s an excellent manager and works well with others and.",
+        "text": "I’ve worked with Alfredo for the past 20 years at Exciting Products Manufacturing in Miami, and I’ve always been impressed with his ability to handle sales agents as well as customers. He’s an excellent manager and works well with others and.",
         "user": "Kurt Mandelik"
       }
       
