@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Alfredo Perez",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer by Day, && Freelancer by Night.",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Alfredo, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "alfredo.perezsd@gmail.com",
+    "phone": "786-518-8524",
+    "address": {
+      "street": "2792 W 68th Place",
+      "city": "Hialeah",
+      "state": "FL",
+      "zip": "33016"
+    },
+    "website": "http://www.alfredop.com",
+    "resumedownload": "http://alfredop.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/alfredo.perez",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/alfredo-perez-024b4a196/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/alfredop/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/2020aperez",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am determined and driven. I enjoy being challenged and engage with projects that require me to work outside of my comfort zone. I constantly set goals for myself so I have something to strive towards. I like to seek out new learning opportunities and I’m not afraid to fail or struggle, it’s a part of the learning process. I am a strong believer in leadership and empowering people to take ownership of their positions and processes. I believe that effective communication is the key to leadership. I strive to create a positive and motivated environment that nurtures future leaders and high performers. I am also a resourceful problem solver and team organizer with the ability to aggressively drive customer focused strategies in an efficient and profitable manner. I’m not comfortable with settling, I’m always looking for an opportunity to do better and achieve greatness.",
+    "education": [
+      {
+        "school": "American InterContinental University",
+        "degree": "Bachelor's degree, Information Technology",
+        "graduated": "2002 - 2006",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Exciting Products Manufacturing",
+        "title": "Operations Manager ",
+        "years": "1998 - Present",
+        "description": "Manage/Supervise office staff"
+      },
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "Adobe products (Photoshop CS6, Illustrator CS6)",
+        "level": "100%"
+      },
+      {
+        "name": "KeyShot 5",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with MERN (JavaScript, ReactJS, NodeJS)"
+        
+      }
+      
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I’ve worked with Alfredo for the past 20 years at Exiting Products Manufacturing in Miami, and I’ve always been impressed with his ability to handle sales agents as well as customers. He’s an excellent manager and works well with others and.",
+        "user": "Kurt Mandelik"
+      }
+      
+    ]
+  }
+}
